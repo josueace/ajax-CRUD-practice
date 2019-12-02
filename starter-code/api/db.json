@@ -1,0 +1,25 @@
+{
+  "characters": [
+    {
+      "name": "gaby",
+      "occupation": "earth",
+      "weapon": "hands",
+      "cartoon": "on",
+      "id": 3
+    },
+    {
+      "name": "Luke Skywalker",
+      "occupation": "walking",
+      "weapon": "feet",
+      "cartoon": "on",
+      "id": 4
+    },
+    {
+      "name": "josue",
+      "occupation": "killer",
+      "weapon": "machete",
+      "cartoon": "on",
+      "id": 5
+    }
+  ]
+}
